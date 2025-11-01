@@ -1,3 +1,11 @@
+<!-- 
+📝 Personalization Tips:
+- Update the LinkedIn URL on line 49 with your actual LinkedIn profile
+- Replace the email address on line 50 with your real email
+- Customize the Technologies & Tools section to match your actual skills
+- Update the About Me section to reflect your unique interests and goals
+-->
+
 <div align="center">
   <h1>👋 Hello, I'm xTheSnopx</h1>
   <h3>Software Developer | Problem Solver | Tech Enthusiast</h3>
